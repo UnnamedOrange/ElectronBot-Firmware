@@ -18,4 +18,4 @@ Yet another set of firmware for [ElectronBot](https://github.com/peng-zhihui/Ele
 
 ## License
 
-Copyright (c) UnnamedOrange. Licensed under the MIT License. See the LICENSE file in the repository root for full license text.
+Copyright (c) UnnamedOrange. Licensed under the MIT License. See the [LICENSE](./LICENSE) file in the repository root for full license text.
